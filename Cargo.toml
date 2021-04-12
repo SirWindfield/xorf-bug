@@ -1,0 +1,8 @@
+[package]
+name = "xorf-bug"
+version = "0.1.0"
+authors = ["SirWindfield <SirWindfield@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+xorf = { version = "0.7.0", features = ["serde"] }
